@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.list-group {
+  width: 60%;
+  height: 300px;
+  overflow: auto;
+}
+
+.accordion {
+  width: 50%;
+  margin: 15px;
+}
+.collapse .card-body {
+  height: 450px;
+}
